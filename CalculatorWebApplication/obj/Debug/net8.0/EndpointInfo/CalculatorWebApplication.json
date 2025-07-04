@@ -1,0 +1,74 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "CalculatorWebApplication",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/CalculatorCs": {
+      "put": {
+        "tags": [
+          "CalculatorCs"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CalculatorC"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CalculatorC"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CalculatorC"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "CalculatorC": {
+        "required": [
+          "operand1",
+          "operand2",
+          "operation"
+        ],
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "operand1": {
+            "type": "number",
+            "format": "double"
+          },
+          "operand2": {
+            "type": "number",
+            "format": "double"
+          },
+          "operation": {
+            "type": "string"
+          },
+          "result": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

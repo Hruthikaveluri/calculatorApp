@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hruthika.Veluri\\OneDrive - Solera Holdings, Inc\\Desktop\\Training\\CalculatorWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38AE10C3-3A9F-4B92-A985-9EC0D487AFA8}|CalculatorWebApplication\\CalculatorWebApplication.csproj|c:\\users\\hruthika.veluri\\onedrive - solera holdings, inc\\desktop\\training\\calculatorwebapplication\\calculatorwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AE10C3-3A9F-4B92-A985-9EC0D487AFA8}|CalculatorWebApplication\\CalculatorWebApplication.csproj|solutionrelative:calculatorwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AE10C3-3A9F-4B92-A985-9EC0D487AFA8}|CalculatorWebApplication\\CalculatorWebApplication.csproj|c:\\users\\hruthika.veluri\\onedrive - solera holdings, inc\\desktop\\training\\calculatorwebapplication\\calculatorwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38AE10C3-3A9F-4B92-A985-9EC0D487AFA8}|CalculatorWebApplication\\CalculatorWebApplication.csproj|solutionrelative:calculatorwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AE10C3-3A9F-4B92-A985-9EC0D487AFA8}|CalculatorWebApplication\\CalculatorWebApplication.csproj|c:\\users\\hruthika.veluri\\onedrive - solera holdings, inc\\desktop\\training\\calculatorwebapplication\\calculatorwebapplication\\controllers\\calculatorcscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AE10C3-3A9F-4B92-A985-9EC0D487AFA8}|CalculatorWebApplication\\CalculatorWebApplication.csproj|solutionrelative:calculatorwebapplication\\controllers\\calculatorcscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AE10C3-3A9F-4B92-A985-9EC0D487AFA8}|CalculatorWebApplication\\CalculatorWebApplication.csproj|c:\\users\\hruthika.veluri\\onedrive - solera holdings, inc\\desktop\\training\\calculatorwebapplication\\calculatorwebapplication\\models\\calculatorc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AE10C3-3A9F-4B92-A985-9EC0D487AFA8}|CalculatorWebApplication\\CalculatorWebApplication.csproj|solutionrelative:calculatorwebapplication\\models\\calculatorc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AE10C3-3A9F-4B92-A985-9EC0D487AFA8}|CalculatorWebApplication\\CalculatorWebApplication.csproj|c:\\users\\hruthika.veluri\\onedrive - solera holdings, inc\\desktop\\training\\calculatorwebapplication\\calculatorwebapplication\\data\\calculatorappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AE10C3-3A9F-4B92-A985-9EC0D487AFA8}|CalculatorWebApplication\\CalculatorWebApplication.csproj|solutionrelative:calculatorwebapplication\\data\\calculatorappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AE10C3-3A9F-4B92-A985-9EC0D487AFA8}|CalculatorWebApplication\\CalculatorWebApplication.csproj|c:\\users\\hruthika.veluri\\onedrive - solera holdings, inc\\desktop\\training\\calculatorwebapplication\\calculatorwebapplication\\migrations\\20250702170229_createcalculatormigration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AE10C3-3A9F-4B92-A985-9EC0D487AFA8}|CalculatorWebApplication\\CalculatorWebApplication.csproj|solutionrelative:calculatorwebapplication\\migrations\\20250702170229_createcalculatormigration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AE10C3-3A9F-4B92-A985-9EC0D487AFA8}|CalculatorWebApplication\\CalculatorWebApplication.csproj|c:\\users\\hruthika.veluri\\onedrive - solera holdings, inc\\desktop\\training\\calculatorwebapplication\\calculatorwebapplication\\migrations\\20250702165351_createcalculatormigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AE10C3-3A9F-4B92-A985-9EC0D487AFA8}|CalculatorWebApplication\\CalculatorWebApplication.csproj|solutionrelative:calculatorwebapplication\\migrations\\20250702165351_createcalculatormigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hruthika.Veluri\\OneDrive - Solera Holdings, Inc\\Desktop\\Training\\CalculatorWebApplication\\CalculatorWebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "CalculatorWebApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hruthika.Veluri\\OneDrive - Solera Holdings, Inc\\Desktop\\Training\\CalculatorWebApplication\\CalculatorWebApplication\\appsettings.json",
+              "RelativeToolTip": "CalculatorWebApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T17:43:41.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hruthika.Veluri\\OneDrive - Solera Holdings, Inc\\Desktop\\Training\\CalculatorWebApplication\\CalculatorWebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorWebApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Hruthika.Veluri\\OneDrive - Solera Holdings, Inc\\Desktop\\Training\\CalculatorWebApplication\\CalculatorWebApplication\\Program.cs",
+              "RelativeToolTip": "CalculatorWebApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:04:53.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorCsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hruthika.Veluri\\OneDrive - Solera Holdings, Inc\\Desktop\\Training\\CalculatorWebApplication\\CalculatorWebApplication\\Controllers\\CalculatorCsController.cs",
+              "RelativeDocumentMoniker": "CalculatorWebApplication\\Controllers\\CalculatorCsController.cs",
+              "ToolTip": "C:\\Users\\Hruthika.Veluri\\OneDrive - Solera Holdings, Inc\\Desktop\\Training\\CalculatorWebApplication\\CalculatorWebApplication\\Controllers\\CalculatorCsController.cs",
+              "RelativeToolTip": "CalculatorWebApplication\\Controllers\\CalculatorCsController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAQwIYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:06:08.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250702170229_CreateCalculatorMigration1.cs",
+              "DocumentMoniker": "C:\\Users\\Hruthika.Veluri\\OneDrive - Solera Holdings, Inc\\Desktop\\Training\\CalculatorWebApplication\\CalculatorWebApplication\\Migrations\\20250702170229_CreateCalculatorMigration1.cs",
+              "RelativeDocumentMoniker": "CalculatorWebApplication\\Migrations\\20250702170229_CreateCalculatorMigration1.cs",
+              "ToolTip": "C:\\Users\\Hruthika.Veluri\\OneDrive - Solera Holdings, Inc\\Desktop\\Training\\CalculatorWebApplication\\CalculatorWebApplication\\Migrations\\20250702170229_CreateCalculatorMigration1.cs",
+              "RelativeToolTip": "CalculatorWebApplication\\Migrations\\20250702170229_CreateCalculatorMigration1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:02:29.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250702165351_CreateCalculatorMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Hruthika.Veluri\\OneDrive - Solera Holdings, Inc\\Desktop\\Training\\CalculatorWebApplication\\CalculatorWebApplication\\Migrations\\20250702165351_CreateCalculatorMigration.cs",
+              "RelativeDocumentMoniker": "CalculatorWebApplication\\Migrations\\20250702165351_CreateCalculatorMigration.cs",
+              "ToolTip": "C:\\Users\\Hruthika.Veluri\\OneDrive - Solera Holdings, Inc\\Desktop\\Training\\CalculatorWebApplication\\CalculatorWebApplication\\Migrations\\20250702165351_CreateCalculatorMigration.cs",
+              "RelativeToolTip": "CalculatorWebApplication\\Migrations\\20250702165351_CreateCalculatorMigration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:53:51.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculatorAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hruthika.Veluri\\OneDrive - Solera Holdings, Inc\\Desktop\\Training\\CalculatorWebApplication\\CalculatorWebApplication\\Data\\CalculatorAppDbContext.cs",
+              "RelativeDocumentMoniker": "CalculatorWebApplication\\Data\\CalculatorAppDbContext.cs",
+              "ToolTip": "C:\\Users\\Hruthika.Veluri\\OneDrive - Solera Holdings, Inc\\Desktop\\Training\\CalculatorWebApplication\\CalculatorWebApplication\\Data\\CalculatorAppDbContext.cs",
+              "RelativeToolTip": "CalculatorWebApplication\\Data\\CalculatorAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:38:54.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorC.cs",
+              "DocumentMoniker": "C:\\Users\\Hruthika.Veluri\\OneDrive - Solera Holdings, Inc\\Desktop\\Training\\CalculatorWebApplication\\CalculatorWebApplication\\Models\\CalculatorC.cs",
+              "RelativeDocumentMoniker": "CalculatorWebApplication\\Models\\CalculatorC.cs",
+              "ToolTip": "C:\\Users\\Hruthika.Veluri\\OneDrive - Solera Holdings, Inc\\Desktop\\Training\\CalculatorWebApplication\\CalculatorWebApplication\\Models\\CalculatorC.cs",
+              "RelativeToolTip": "CalculatorWebApplication\\Models\\CalculatorC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:28:02.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

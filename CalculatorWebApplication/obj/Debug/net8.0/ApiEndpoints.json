@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CalculatorWebApplication.Controllers.CalculatorCsController",
+    "Method": "PutCalculator",
+    "RelativePath": "api/CalculatorCs",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "calculator",
+        "Type": "CalculatorWebApplication.Models.CalculatorC",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
